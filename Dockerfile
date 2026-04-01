@@ -1,5 +1,5 @@
 # Use Java runtime
-FROM openjdk:8-jdk-alpine
+FROM eclipse-temurin:8-jdk-alpine
 
 # Set working directory
 WORKDIR /app
